@@ -1,6 +1,6 @@
 # MyReciPal Mobile App
 
-MyReciPal is a mobile application that leverages Deep Learning to predict ingredients from an image and generate corresponding recipes. The application is built using React Native and Expo, and it uses TensorFlow.js and Keras for the Machine Learning part.
+MyReciPal is a smart cooking mobile application that leverages the power of Deep Learning to predict ingredients from your back camera and generate corresponding recipes. The application is built using React Native and Expo, and it uses TensorFlow.js and Keras for the Machine Learning part.
 
 ## Getting Started
 
@@ -46,8 +46,8 @@ This will start the Expo developer tools in your browser. From there, you can ch
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/<Your GitHub username>/MyReciPal-MobileApp/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Abdulrahman-Qadi/Ingredient-Recognition-App/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Abdulrahman-Qadi/MyReciPal-MobileApp/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Abdulrahman-Qadi/Ingredient-Recognition-App/LICENSE.md) file for details
